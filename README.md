@@ -59,7 +59,7 @@ As someone who once translated games word-by-word with a paper dictionary, I kno
 |--------|-------|
 | Experience | 12+ years |
 | Performance Wins | 40% workflow boost • 30% load time reduction • #1 on Google Search |
-| Languages | Portuguese (native) • English (fluent) • Japanese (N3) • German (intermediate) |
+| Languages | Portuguese (native) • English (fluent) • Japanese (N2) • German (beginner) |
 
 # クリスティーナ・サンタナ
 
@@ -102,4 +102,4 @@ C# およびリレーショナル データベース。
 |------|------|
 | 経験年数 | 12 年以上 |
 | パフォーマンス達成 | 40% ワークフロー改善 • 30% ローディング時間削減 • Google 検索第 1 位 |
-| 言語 | ポルトガル語（母語）• 英語（堪能）• 日本語（N3）• ドイツ語（中級） |
+| 言語 | ポルトガル語（母語）• 英語（堪能）• 日本語（N2）• ドイツ語（初心者） |
