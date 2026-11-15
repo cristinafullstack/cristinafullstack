@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - Component systems & design libraries for teams
 
 ## 🌱 What I'm Learning
-My priority is to improve my technical Japanese, so I'm reading Qiita articles everyday.
+C# and Relational databases
 
 ## 🛠️ Tech Stack
 **Frontend:** React ⚛️ • Next.js • TypeScript • Vue.js • Javascript • HTML5 • CSS3
@@ -77,7 +77,7 @@ As someone who once translated games word-by-word with a paper dictionary, I kno
 - チーム向けコンポーネントシステムとデザインライブラリ
 
 ## 🌱 今学んでいること
-技術的な日本語力を高めることを優先しているので、毎日Qiitaの記事を読んでいます。
+C# およびリレーショナル データベース。
 
 ## 🛠️ テックスタック
 **フロントエンド:** React ⚛️ • Next.js • TypeScript • Vue.js • JavaScript • HTML5 • CSS3  
