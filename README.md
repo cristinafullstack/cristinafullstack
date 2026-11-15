@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🌇 Senior Frontend Engineer | React, Next.js, TypeScript | Berlin → Tokyo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/acsfrontend)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/cristinafullstack)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel)](https://whimsical-tech.vercel.app)
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge)](https://qiita.com/frontendpro)
 
